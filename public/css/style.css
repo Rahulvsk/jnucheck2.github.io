@@ -327,7 +327,7 @@ header {
 @media only screen and (max-width: 768px) {
     /* For mobile phones: */
     .instName {
-    font-size:7px !important;
+    font-size:4px !important;
     }
     .lg-img{
         height:59px;
